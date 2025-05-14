@@ -61,8 +61,8 @@
 
 ### 📬 Entre em contato comigo
 
-- 📧 [SeuEmail@email.com](isafernandes.dev@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/isabella-v-fernandes/)
+- 📧(isafernandes.dev@gmail.com)  
+- 💼 (https://www.linkedin.com/in/isabella-v-fernandes/)
 
 ---
 
